@@ -22,4 +22,4 @@ Originally, the tables have more columns than what is presented in the data mode
 ![image](https://github.com/user-attachments/assets/7ec59711-a15b-4ad7-8a21-6649e8372bdb)
 
 - Calendar Table. I created a date table for faster querying and to bridge the encounter and procedures table.
-- Periods Table. I created custom date slicer do I need another table for filtering the calendar table aside from needing a reference column for slicer dropdown. 
+- Periods Table. I created custom date slicer as I need another table for filtering the calendar table aside from needing a reference column for slicer dropdown. 
