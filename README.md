@@ -7,7 +7,7 @@ Maven Analytics provided 4 questions for a high level dashboard to answer.
 
 The challenge was you are assumed to have knowledge on hospitals, you need to understand the data given and make your own schema, and decide & discover what KPIs are appropriate in the dashboard.
 
-**This is my ongoing dashboard project from Maven Analytics. Not yet done with the percent changes on KPI but will push changes**
+**This is my ongoing dashboard project from Maven Analytics. Not yet done with the percent changes on KPI but will make the changes**
 
 ## Why create this dashboard?
 - More than a week ago, I saw a couple of people on linkedin post their dashboard on Maven Analytics Hospital Challenge and I noticed that they're presenting KPI for average length of stay in hospital without regard to type of encounter (is it admission, visit, or readmission?). I disagree to this because I thought a hospital visit is shorter than admission (admission surely take more hours than visit). So my vision is present average length of stay by category.
