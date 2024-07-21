@@ -18,17 +18,21 @@ This dashboard is a high level dashboard about the operations and Finance of Mas
 
 **Aside from the calendar table (a calculated table), I've tried to avoid doing more calculated tables because I wanted to try a bit of complex dax. From this dashboard, I've learned that custom date slicer is hard specially if you have overlapping date options and doing complex dax will only slow down the report**
 
-### Operations
-Metrics inside the rounded boxes answer these questions: 
+### Operations Dashboard
+Metrics within the rounded boxes answer these questions: 
 - The patients being admitted or readmitted
 - Average Length of stay in the hospital
 
+For this dashboard, end users will be able to get a glimpse overall performance of the hospital through North Start KPIs presented on the left side of the dashboard, and number of patients, their length of stay, and the reasons of their admission/readmission/visit. 
 
 ![image](https://github.com/user-attachments/assets/75a1daff-a877-4bc5-9d50-3ef63a6cfa79)
 
 ### Finance
-Metrics inside the rounded boxes answer these questions: 
+Metrics within the rounded boxes answer these questions: 
 - Average cost of visit  
 - Number of procedures covered by insurance
 
-![image](https://github.com/user-attachments/assets/7b19c75a-2dfe-4331-a4ad-1fa9834c3b2a)
+This Finance Dashboard will help end users not only answer their questions about the cost of visit and the number of procedures performed but also the gross revenue and its composition to type of encounter and different payers.
+
+![image](https://github.com/user-attachments/assets/b617742a-fc45-4c1f-a194-856765fbc0e5)
+
