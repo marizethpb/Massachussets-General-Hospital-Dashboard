@@ -14,9 +14,9 @@ The challenge was you are assumed to have knowledge on hospitals, you need to un
 - I though this was an opportunity to apply custom date slicer and challenge myself to write more measures than create calculated columns. 
 
 ## What is this dashboard?
-This dashboard is a high level dashboard about the operations and Finance of Massachussets General Hospital. The questions given by maven analytics mainly focuses on operations and finance so I figured I'd create dashboard for each.
+This dashboard is a high level dashboard about the operations and finance of Massachussets General Hospital. The questions given by maven analytics mainly focuses on operations and finance so I figured I'd create dashboard for each.
 
-**Aside from the calendar table (a calculated table), I've tried to avoid doing more calculated tables because I wanted to try a bit of complex dax. From this dashboard, I've learned that custom date slicer is hard specially if you have overlapping date options and doing complex dax will only slow down the report**
+**Aside from the calendar table (a calculated table), I've tried to avoid doing more calculated tables because I wanted to try a bit of complex dax. From this dashboard, I've learned that custom date slicer is hard especially if you have overlapping date options and doing complex dax will only slow down the report**
 
 ### Operations Dashboard
 Metrics within the rounded boxes answer these questions: 
@@ -32,7 +32,7 @@ Metrics within the rounded boxes answer these questions:
 - Average cost of visit  
 - Number of procedures covered by insurance
 
-This Finance Dashboard will help end users not only answer their questions about the cost of visit and the number of procedures performed but also the gross revenue and its composition to type of encounter and different payers.
+This Finance Dashboard will help end users not only answer their questions about the cost of visit and the number of procedures performed but also observe gross revenue and its composition to type of encounter and different payers.
 
 ![image](https://github.com/user-attachments/assets/b617742a-fc45-4c1f-a194-856765fbc0e5)
 
