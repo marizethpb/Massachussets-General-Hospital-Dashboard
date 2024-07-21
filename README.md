@@ -24,8 +24,7 @@ Metrics within the rounded boxes answer these questions:
 - Average Length of stay in the hospital
 
 For this dashboard, end users will be able to get a glimpse overall performance of the hospital through North Start KPIs presented on the left side of the dashboard, and number of patients, their length of stay, and the reasons of their admission/readmission/visit. 
-
-![image](https://github.com/user-attachments/assets/75a1daff-a877-4bc5-9d50-3ef63a6cfa79)
+![12](https://github.com/user-attachments/assets/5baa7198-7919-4978-b39f-a2bdace6a814)
 
 ### Finance Dashboard
 Metrics within the rounded boxes answer these questions: 
@@ -34,5 +33,4 @@ Metrics within the rounded boxes answer these questions:
 
 This Finance Dashboard will help end users not only answer their questions about the cost of visit and the number of procedures performed but also observe gross revenue and its composition to type of encounter and different payers.
 
-![image](https://github.com/user-attachments/assets/b617742a-fc45-4c1f-a194-856765fbc0e5)
-
+![11](https://github.com/user-attachments/assets/f5c70c53-0640-457d-95d6-818767bac073)
