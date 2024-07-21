@@ -1,5 +1,5 @@
 # Data Model
-![image](https://github.com/user-attachments/assets/21f66c35-1e4f-49af-9e7e-0ca30232ce16)
+![image](https://github.com/user-attachments/assets/49df3e90-b72b-4d81-a4c0-bf38bd429bee)
 
 Shown above is the data model for the dashboard which includes the payers, encounters, procedures, period, calendar, patients, ops measures, and finance measures table. Its a mini snowflake schema with procedures as the fact table and encounter & calendar as inner dimension tables. Notice the circular-like relationship between calendar, encounter, and procedures table. For that, I deactivated the relationship between calendar and procedures and set the procedures and encounter table relationship as the default. I'd just use userelationship function to filter procedures table with calendar table.
 
