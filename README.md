@@ -27,7 +27,7 @@ For this dashboard, end users will be able to get a glimpse overall performance 
 
 ![image](https://github.com/user-attachments/assets/75a1daff-a877-4bc5-9d50-3ef63a6cfa79)
 
-### Finance
+### Finance Dashboard
 Metrics within the rounded boxes answer these questions: 
 - Average cost of visit  
 - Number of procedures covered by insurance
